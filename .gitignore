@@ -19,7 +19,7 @@
 /out/
 /target/
 /dist/
-
+/private
 # IDE (IntelliJ, Eclipse, VS Code)
 .idea/
 .vscode/
