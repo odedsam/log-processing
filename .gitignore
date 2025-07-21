@@ -1,0 +1,72 @@
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.log
+*.lock
+*.swp
+*.swo
+*.bak
+*.tmp
+*.iml
+*.ipr
+*.iws
+
+/bin/
+/build/
+/out/
+/target/
+/dist/
+
+# IDE (IntelliJ, Eclipse, VS Code)
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+*.iws
+*.launch
+*.factorypath
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# .env
+# application.properties
+# application.yml
+# *.key
+# *.jks
+
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/wrapper/maven-wrapper.jar
+
+.gradle/
+/build/
+*.log
+!gradle-wrapper.jar
+.gradle-enterprise/
+
+/logs/
+/kafka-logs/
+/zookeeper-data/
+/zookeeper-logs/
+
+/data/
+/tmp/kafka-streams/
+/tmp/kafka-connect/
+
+# server.properties
+# consumer.properties
+# producer.properties
+
